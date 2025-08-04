@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Harshal Paredi</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h1 align="center">Hi, I'm Harshal Paredi 👨‍💻</h1>
+<h3 align="center">Code. Learn. Repeat. 🔁 | MERN Stack Developer | Exploring Flutter, AI, and Next.js </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshal-paredi" target="_blank">
+  <a href="https://www.linkedin.com/in/harshal-paredi" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/hey_hxrsh/" target="_blank">
+  <a href="https://github.com/harshal-paredi" target="blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+  <a href="https://www.instagram.com/hey_hxrsh/" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -14,6 +18,7 @@
 
 - 🔭 I’m currently working on **React + Node.js Projects**
 - 🌱 I’m currently learning **Flutter, Next.js, and AI**
+---
 - 💬 Ask me about **MERN Stack Development**
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/harshal-paredi)
 
@@ -32,12 +37,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+            
 </p>
 
 ---
 
 ### 🔥 Fun Fact:
 
-> “Code is like humor. When you have to explain it, it’s bad.”
+> “🎵 My code works better when I play lo-fi music..”
 
 ---
