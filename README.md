@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshal Paredi 👨‍💻</h1>
-<h3 align="center">Code. Learn. Repeat. 🔁 | MERN Stack Developer | Exploring Flutter, AI, and Next.js </h3>
+<h3 align="center">Code. Learn. Repeat. 🔁 | FrontEnd Developer | Exploring Flutter, AI, and Next.js </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshal-paredi" target="blank">
@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **React + Node.js Projects**
 - 🌱 I’m currently learning **Flutter, Next.js, and AI**
 ---
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **FrontEnd Development**
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/harshal-paredi)
 
 ---
